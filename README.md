@@ -1,6 +1,3 @@
-## Hi there 👋
-
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://amishigupta.io)
 <h1 align="center">Hi 👋, I'm Amishi Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.dreamstime.com/b/girl-coding-web-page-girl-coding-web-page-listening-to-music-night-253185016.jpg">
