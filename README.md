@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amishi Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.dreamstime.com/b/girl-coding-web-page-girl-coding-web-page-listening-to-music-night-253185016.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amishii005&label=Profile%20views&color=0e75b6&style=flat" alt="amishii005" /> </p>
@@ -17,9 +17,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/amishii_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amishii_05" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/amishi-gupta-9118ba259/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" />
-</a>
 <a href="https://www.leetcode.com/amishicseai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amishicseai" height="30" width="40" /></a>
 </p>
 
