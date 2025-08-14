@@ -18,7 +18,8 @@
 <p align="left">
 <a href="https://instagram.com/amishii_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amishii_05" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/amishi-gupta-9118ba259/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+</a>
 <a href="https://www.leetcode.com/amishicseai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amishicseai" height="30" width="40" /></a>
 </p>
 
